@@ -14,7 +14,7 @@ Podemos crear maquinas virtuales usando alguno de los siguientes métodos:
 
 #### Osboxes
 - Abrimos VirtualBox
-- Creamos una nueva máquina haciendo click en Nueva ![virtualbox1](./virtualbox_1.PNG)
+- Creamos una nueva máquina haciendo click en Nueva ![virtualbox1](./001.png)
 
 [VirtualBox]: https://www.virtualbox.org/wiki/Downloads
 [Osboxes]: https://www.osboxes.org/
