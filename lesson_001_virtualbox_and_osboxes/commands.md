@@ -1,3 +1,8 @@
+## Finding out IP Address
+```bash
+ip addr
+```
+
 ## Accessing server with SSH
 
 ```bash
